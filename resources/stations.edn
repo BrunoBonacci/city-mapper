@@ -1,0 +1,424 @@
+{:name "Abbey Road", :zones #{"3" "2"}, :id "940GZZDLABR"}
+{:name "Acton Central", :zones #{"3"}, :id "910GACTNCTL"}
+{:name "Acton Town", :zones #{"3"}, :id "940GZZLUACT"}
+{:name "Aldgate", :zones #{"1"}, :id "940GZZLUALD"}
+{:name "Aldgate East", :zones #{"1"}, :id "940GZZLUADE"}
+{:name "All Saints", :zones #{"2"}, :id "940GZZDLALL"}
+{:name "Alperton", :zones #{"4"}, :id "940GZZLUALP"}
+{:name "Amersham", :zones #{"9"}, :id "940GZZLUAMS"}
+{:name "Anerley", :zones #{"4"}, :id "910GANERLEY"}
+{:name "Angel", :zones #{"1"}, :id "940GZZLUAGL"}
+{:name "Archway", :zones #{"3" "2"}, :id "940GZZLUACY"}
+{:name "Arnos Grove", :zones #{"4"}, :id "940GZZLUASG"}
+{:name "Arsenal", :zones #{"2"}, :id "940GZZLUASL"}
+{:name "Baker Street", :zones #{"1"}, :id "940GZZLUBST"}
+{:name "Balham", :zones #{"3"}, :id "940GZZLUBLM"}
+{:name "Bank", :zones #{"1"}, :id "940GZZDLBNK"}
+{:name "Bank", :zones #{"1"}, :id "940GZZLUBNK"}
+{:name "Barbican", :zones #{"1"}, :id "940GZZLUBBN"}
+{:name "Barking", :zones #{"4"}, :id "910GBARKING"}
+{:name "Barking", :zones #{"4"}, :id "940GZZLUBKG"}
+{:name "Barkingside", :zones #{"4"}, :id "940GZZLUBKE"}
+{:name "Barons Court", :zones #{"2"}, :id "940GZZLUBSC"}
+{:name "Bayswater", :zones #{"1"}, :id "940GZZLUBWT"}
+{:name "Beckton", :zones #{"3"}, :id "940GZZDLBEC"}
+{:name "Beckton Park", :zones #{"3"}, :id "940GZZDLBPK"}
+{:name "Becontree", :zones #{"5"}, :id "940GZZLUBEC"}
+{:name "Belsize Park", :zones #{"2"}, :id "940GZZLUBZP"}
+{:name "Bermondsey", :zones #{"2"}, :id "940GZZLUBMY"}
+{:name "Bethnal Green", :zones #{"2"}, :id "940GZZLUBLG"}
+{:name "Bethnal Green", :zones #{"2"}, :id "910GBTHNLGR"}
+{:name "Blackfriars", :zones #{"1"}, :id "940GZZLUBKF"}
+{:name "Blackhorse Road", :zones #{"3"}, :id "940GZZLUBLR"}
+{:name "Blackhorse Road", :zones #{"3"}, :id "910GBLCHSRD"}
+{:name "Blackwall", :zones #{"2"}, :id "940GZZDLBLA"}
+{:name "Bond Street", :zones #{"1"}, :id "940GZZLUBND"}
+{:name "Borough", :zones #{"1"}, :id "940GZZLUBOR"}
+{:name "Boston Manor", :zones #{"4"}, :id "940GZZLUBOS"}
+{:name "Bounds Green", :zones #{"3" "4"}, :id "940GZZLUBDS"}
+{:name "Bow Church", :zones #{"2"}, :id "940GZZDLBOW"}
+{:name "Bow Road", :zones #{"2"}, :id "940GZZLUBWR"}
+{:name "Brent Cross", :zones #{"3"}, :id "940GZZLUBTX"}
+{:name "Brixton", :zones #{"2"}, :id "940GZZLUBXN"}
+{:name "Brockley", :zones #{"2"}, :id "910GBROCKLY"}
+{:name "Bromley-by-Bow", :zones #{"3" "2"}, :id "940GZZLUBBB"}
+{:name "Brondesbury", :zones #{"2"}, :id "910GBRBY"}
+{:name "Brondesbury Park", :zones #{"2"}, :id "910GBRBYPK"}
+{:name "Bruce Grove", :zones #{"3"}, :id "910GBRUCGRV"}
+{:name "Buckhurst Hill", :zones #{"5"}, :id "940GZZLUBKH"}
+{:name "Burnt Oak", :zones #{"4"}, :id "940GZZLUBTK"}
+{:name "Bush Hill Park", :zones #{"5"}, :id "910GBHILLPK"}
+{:name "Bushey", :zones #{"8"}, :id "910GBUSHEY"}
+{:name "Caledonian Road", :zones #{"2"}, :id "940GZZLUCAR"}
+{:name "Caledonian Road & Barnsbury", :zones #{"2"}, :id "910GCLDNNRB"}
+{:name "Cambridge Heath", :zones #{"2"}, :id "910GCAMHTH"}
+{:name "Camden Road", :zones #{"2"}, :id "910GCMDNRD"}
+{:name "Camden Town", :zones #{"2"}, :id "940GZZLUCTN"}
+{:name "Canada Water", :zones #{"2"}, :id "910GCNDAW"}
+{:name "Canada Water", :zones #{"2"}, :id "940GZZLUCWR"}
+{:name "Canary Wharf", :zones #{"2"}, :id "940GZZLUCYF"}
+{:name "Canary Wharf", :zones #{"2"}, :id "940GZZDLCAN"}
+{:name "Canning Town", :zones #{"3" "2"}, :id "940GZZDLCGT"}
+{:name "Canning Town", :zones #{"3" "2"}, :id "940GZZLUCGT"}
+{:name "Cannon Street", :zones #{"1"}, :id "940GZZLUCST"}
+{:name "Canonbury", :zones #{"2"}, :id "910GCNNB"}
+{:name "Canons Park", :zones #{"5"}, :id "940GZZLUCPK"}
+{:name "Carpenders Park", :zones #{"7"}, :id "910GCRPNDPK"}
+{:name "Chalfont & Latimer", :zones #{"8"}, :id "940GZZLUCAL"}
+{:name "Chalk Farm", :zones #{"2"}, :id "940GZZLUCFM"}
+{:name "Chancery Lane", :zones #{"1"}, :id "940GZZLUCHL"}
+{:name "Charing Cross", :zones #{"1"}, :id "940GZZLUCHX"}
+{:name "Chesham", :zones #{"9"}, :id "940GZZLUCSM"}
+{:name "Cheshunt", :zones #{"8"}, :id "910GCHESHNT"}
+{:name "Chingford", :zones #{"5"}, :id "910GCHINGFD"}
+{:name "Chiswick Park", :zones #{"3"}, :id "940GZZLUCWP"}
+{:name "Chorleywood", :zones #{"7"}, :id "940GZZLUCYD"}
+{:name "Clapham Common", :zones #{"2"}, :id "940GZZLUCPC"}
+{:name "Clapham High Street", :zones #{"2"}, :id "910GCLPHHS"}
+{:name "Clapham Junction", :zones #{}, :id "910GCLPHMJ1"}
+{:name "Clapham North", :zones #{"2"}, :id "940GZZLUCPN"}
+{:name "Clapham South", :zones #{"3" "2"}, :id "940GZZLUCPS"}
+{:name "Clapton", :zones #{"3" "2"}, :id "910GCLAPTON"}
+{:name "Cockfosters", :zones #{"5"}, :id "940GZZLUCKS"}
+{:name "Colindale", :zones #{"4"}, :id "940GZZLUCND"}
+{:name "Colliers Wood", :zones #{"3"}, :id "940GZZLUCSD"}
+{:name "Covent Garden", :zones #{"1"}, :id "940GZZLUCGN"}
+{:name "Crossharbour", :zones #{"2"}, :id "940GZZDLCLA"}
+{:name "Crouch Hill", :zones #{"3"}, :id "910GCROUCHH"}
+{:name "Croxley", :zones #{"7"}, :id "940GZZLUCXY"}
+{:name "Crystal Palace", :zones #{"3" "4"}, :id "910GCRYSTLP"}
+{:name "Custom House", :zones #{"3"}, :id "940GZZDLCUS"}
+{:name "Cutty Sark", :zones #{"3" "2"}, :id "940GZZDLCUT"}
+{:name "Cyprus", :zones #{"3"}, :id "940GZZDLCYP"}
+{:name "Dagenham East", :zones #{"5"}, :id "940GZZLUDGE"}
+{:name "Dagenham Heathway", :zones #{"5"}, :id "940GZZLUDGY"}
+{:name "Dalston Junction", :zones #{"2"}, :id "910GDALS"}
+{:name "Dalston Kingsland", :zones #{"2"}, :id "910GDALSKLD"}
+{:name "Debden", :zones #{"6"}, :id "940GZZLUDBN"}
+{:name "Denmark Hill", :zones #{"2"}, :id "910GDENMRKH"}
+{:name "Deptford Bridge", :zones #{"3" "2"}, :id "940GZZDLDEP"}
+{:name "Devons Road", :zones #{"2"}, :id "940GZZDLDEV"}
+{:name "Dollis Hill", :zones #{"3"}, :id "940GZZLUDOH"}
+{:name "Ealing Broadway", :zones #{"3"}, :id "940GZZLUEBY"}
+{:name "Ealing Common", :zones #{"3"}, :id "940GZZLUECM"}
+{:name "Earl's Court", :zones #{"1" "2"}, :id "940GZZLUECT"}
+{:name "East Acton", :zones #{"2"}, :id "940GZZLUEAN"}
+{:name "East Finchley", :zones #{"3"}, :id "940GZZLUEFY"}
+{:name "East Ham", :zones #{"3" "4"}, :id "940GZZLUEHM"}
+{:name "East India", :zones #{"3" "2"}, :id "940GZZDLEIN"}
+{:name "East Putney", :zones #{"3" "2"}, :id "940GZZLUEPY"}
+{:name "Eastcote", :zones #{"5"}, :id "940GZZLUEAE"}
+{:name "Edgware", :zones #{"5"}, :id "940GZZLUEGW"}
+{:name "Edgware Road", :zones #{"1"}, :id "940GZZLUERB"}
+{:name "Edgware Road", :zones #{"1"}, :id "940GZZLUERC"}
+{:name "Edmonton Green", :zones #{"4"}, :id "910GEDMNGRN"}
+{:name "Elephant & Castle", :zones #{"1" "2"}, :id "940GZZLUEAC"}
+{:name "Elm Park", :zones #{"6"}, :id "940GZZLUEPK"}
+{:name "Elverson Road", :zones #{"3" "2"}, :id "940GZZDLELV"}
+{:name "Embankment", :zones #{"1"}, :id "940GZZLUEMB"}
+{:name "Emerson Park", :zones #{"6"}, :id "910GEMRSPKH"}
+{:name "Enfield Town", :zones #{"5"}, :id "910GENFLDTN"}
+{:name "Epping", :zones #{"6"}, :id "940GZZLUEPG"}
+{:name "Euston", :zones #{"1"}, :id "940GZZLUEUS"}
+{:name "Euston Square", :zones #{"1"}, :id "940GZZLUESQ"}
+{:name "Fairlop", :zones #{"4"}, :id "940GZZLUFLP"}
+{:name "Farringdon", :zones #{"1"}, :id "940GZZLUFCN"}
+{:name "Finchley Central", :zones #{"4"}, :id "940GZZLUFYC"}
+{:name "Finchley Road", :zones #{"2"}, :id "940GZZLUFYR"}
+{:name "Finchley Road & Frognal", :zones #{"2"}, :id "910GFNCHLYR"}
+{:name "Finsbury Park", :zones #{"2"}, :id "940GZZLUFPK"}
+{:name "Forest Hill", :zones #{"3"}, :id "910GFORESTH"}
+{:name "Fulham Broadway", :zones #{"2"}, :id "940GZZLUFBY"}
+{:name "Gallions Reach", :zones #{"3"}, :id "940GZZDLGAL"}
+{:name "Gants Hill", :zones #{"4"}, :id "940GZZLUGTH"}
+{:name "Gloucester Road", :zones #{"1"}, :id "940GZZLUGTR"}
+{:name "Golders Green", :zones #{"3"}, :id "940GZZLUGGN"}
+{:name "Goldhawk Road", :zones #{"2"}, :id "940GZZLUGHK"}
+{:name "Goodge Street", :zones #{"1"}, :id "940GZZLUGDG"}
+{:name "Gospel Oak", :zones #{"2"}, :id "910GGOSPLOK"}
+{:name "Great Portland Street", :zones #{"1"}, :id "940GZZLUGPS"}
+{:name "Green Park", :zones #{"1"}, :id "940GZZLUGPK"}
+{:name "Greenford", :zones #{"4"}, :id "940GZZLUGFD"}
+{:name "Greenwich", :zones #{"3" "2"}, :id "940GZZDLGRE"}
+{:name "Gunnersbury", :zones #{"3"}, :id "940GZZLUGBY"}
+{:name "Gunnersbury", :zones #{"3"}, :id "910GGNRSBRY"}
+{:name "Hackney Central", :zones #{"2"}, :id "910GHACKNYC"}
+{:name "Hackney Downs", :zones #{"2"}, :id "910GHAKNYNM"}
+{:name "Hackney Wick", :zones #{"2"}, :id "910GHACKNYW"}
+{:name "Haggerston", :zones #{"2"}, :id "910GHAGGERS"}
+{:name "Hainault", :zones #{"4"}, :id "940GZZLUHLT"}
+{:name "Hammersmith", :zones #{"2"}, :id "940GZZLUHSC"}
+{:name "Hammersmith", :zones #{"2"}, :id "940GZZLUHSD"}
+{:name "Hampstead", :zones #{"3" "2"}, :id "940GZZLUHTD"}
+{:name "Hampstead Heath", :zones #{"2"}, :id "910GHMPSTDH"}
+{:name "Hanger Lane", :zones #{"3"}, :id "940GZZLUHGR"}
+{:name "Harlesden", :zones #{"3"}, :id "910GHARLSDN"}
+{:name "Harlesden", :zones #{"3"}, :id "940GZZLUHSN"}
+{:name "Harringay Green Lanes", :zones #{"3"}, :id "910GHRGYGL"}
+{:name "Harrow & Wealdstone", :zones #{"5"}, :id "910GHROW"}
+{:name "Harrow & Wealdstone", :zones #{"5"}, :id "940GZZLUHAW"}
+{:name "Harrow-on-the-Hill", :zones #{"5"}, :id "940GZZLUHOH"}
+{:name "Hatch End", :zones #{"6"}, :id "910GHTCHEND"}
+{:name "Hatton Cross", :zones #{"5" "6"}, :id "940GZZLUHNX"}
+{:name "Headstone Lane", :zones #{"5"}, :id "910GHEDSTNL"}
+{:name "Heathrow Terminal 4", :zones #{"6"}, :id "940GZZLUHR4"}
+{:name "Heathrow Terminal 5", :zones #{"6"}, :id "940GZZLUHR5"}
+{:name "Heathrow Terminals 1-2-3 ", :zones #{"6"}, :id "940GZZLUHRC"}
+{:name "Hendon Central", :zones #{"3" "4"}, :id "940GZZLUHCL"}
+{:name "Heron Quays", :zones #{"2"}, :id "940GZZDLHEQ"}
+{:name "High Barnet", :zones #{"5"}, :id "940GZZLUHBT"}
+{:name "High Street Kensington", :zones #{"1"}, :id "940GZZLUHSK"}
+{:name "Highams Park", :zones #{"4"}, :id "910GHGHMSPK"}
+{:name "Highbury & Islington", :zones #{"2"}, :id "940GZZLUHAI"}
+{:name "Highbury & Islington", :zones #{"2"}, :id "910GHGHI"}
+{:name "Highgate", :zones #{"3"}, :id "940GZZLUHGT"}
+{:name "Hillingdon", :zones #{"6"}, :id "940GZZLUHGD"}
+{:name "Holborn", :zones #{"1"}, :id "940GZZLUHBN"}
+{:name "Holland Park", :zones #{"2"}, :id "940GZZLUHPK"}
+{:name "Holloway Road", :zones #{"2"}, :id "940GZZLUHWY"}
+{:name "Homerton", :zones #{"2"}, :id "910GHOMRTON"}
+{:name "Honor Oak Park", :zones #{"3"}, :id "910GHONROPK"}
+{:name "Hornchurch", :zones #{"6"}, :id "940GZZLUHCH"}
+{:name "Hounslow Central", :zones #{"4"}, :id "940GZZLUHWC"}
+{:name "Hounslow East", :zones #{"4"}, :id "940GZZLUHWE"}
+{:name "Hounslow West", :zones #{"5"}, :id "940GZZLUHWT"}
+{:name "Hoxton", :zones #{"1" "2"}, :id "910GHOXTON"}
+{:name "Hyde Park Corner", :zones #{"1"}, :id "940GZZLUHPC"}
+{:name "Ickenham", :zones #{"6"}, :id "940GZZLUICK"}
+{:name "Imperial Wharf", :zones #{"2"}, :id "910GCSEAH"}
+{:name "Island Gardens", :zones #{"2"}, :id "940GZZDLISL"}
+{:name "Kennington", :zones #{"2"}, :id "940GZZLUKNG"}
+{:name "Kensal Green", :zones #{"2"}, :id "940GZZLUKSL"}
+{:name "Kensal Green", :zones #{"2"}, :id "910GKENSLG"}
+{:name "Kensal Rise", :zones #{"2"}, :id "910GKENR"}
+{:name "Kensington", :zones #{"2"}, :id "910GKENOLYM"}
+{:name "Kensington", :zones #{"2"}, :id "940GZZLUKOY"}
+{:name "Kentish Town", :zones #{"2"}, :id "940GZZLUKSH"}
+{:name "Kentish Town West", :zones #{"2"}, :id "910GKNTSHTW"}
+{:name "Kenton", :zones #{"4"}, :id "910GKTON"}
+{:name "Kenton", :zones #{"4"}, :id "940GZZLUKEN"}
+{:name "Kew Gardens", :zones #{"3" "4"}, :id "940GZZLUKWG"}
+{:name "Kew Gardens", :zones #{"3" "4"}, :id "910GKEWGRDN"}
+{:name "Kilburn", :zones #{"2"}, :id "940GZZLUKBN"}
+{:name "Kilburn High Road", :zones #{"2"}, :id "910GKLBRNHR"}
+{:name "Kilburn Park", :zones #{"2"}, :id "940GZZLUKPK"}
+{:name "King George V", :zones #{"3"}, :id "940GZZDLKGV"}
+{:name "King's Cross St. Pancras", :zones #{"1"}, :id "940GZZLUKSX"}
+{:name "Kingsbury", :zones #{"4"}, :id "940GZZLUKBY"}
+{:name "Knightsbridge", :zones #{"1"}, :id "940GZZLUKNB"}
+{:name "Ladbroke Grove", :zones #{"2"}, :id "940GZZLULAD"}
+{:name "Lambeth North", :zones #{"1"}, :id "940GZZLULBN"}
+{:name "Lancaster Gate", :zones #{"1"}, :id "940GZZLULGT"}
+{:name "Langdon Park", :zones #{"2"}, :id "940GZZDLLDP"}
+{:name "Latimer Road", :zones #{"2"}, :id "940GZZLULRD"}
+{:name "Leicester Square", :zones #{"1"}, :id "940GZZLULSQ"}
+{:name "Lewisham", :zones #{"3" "2"}, :id "940GZZDLLEW"}
+{:name "Leyton", :zones #{"3"}, :id "940GZZLULYN"}
+{:name "Leyton Midland Road", :zones #{"3"}, :id "910GLEYTNMR"}
+{:name "Leytonstone", :zones #{"3" "4"}, :id "940GZZLULYS"}
+{:name "Leytonstone High Road", :zones #{"3"}, :id "910GLYTNSHR"}
+{:name "Limehouse", :zones #{"2"}, :id "940GZZDLLIM"}
+{:name "Liverpool Street", :zones #{"1"}, :id "940GZZLULVT"}
+{:name "London Bridge", :zones #{"1"}, :id "940GZZLULNB"}
+{:name "London City Airport", :zones #{"3"}, :id "940GZZDLLCA"}
+{:name "London Euston", :zones #{"1"}, :id "910GEUSTON"}
+{:name "London Fields", :zones #{"2"}, :id "910GLONFLDS"}
+{:name "London Liverpool Street", :zones #{"1"}, :id "910GLIVST"}
+{:name "Loughton", :zones #{"6"}, :id "940GZZLULGN"}
+{:name "Maida Vale", :zones #{"2"}, :id "940GZZLUMVL"}
+{:name "Manor House", :zones #{"3" "2"}, :id "940GZZLUMRH"}
+{:name "Mansion House", :zones #{"1"}, :id "940GZZLUMSH"}
+{:name "Marble Arch", :zones #{"1"}, :id "940GZZLUMBA"}
+{:name "Marylebone", :zones #{"1"}, :id "940GZZLUMYB"}
+{:name "Mile End", :zones #{"2"}, :id "940GZZLUMED"}
+{:name "Mill Hill East", :zones #{"4"}, :id "940GZZLUMHL"}
+{:name "Monument", :zones #{"1"}, :id "940GZZLUMMT"}
+{:name "Moor Park", :zones #{"7" "6"}, :id "940GZZLUMPK"}
+{:name "Moorgate", :zones #{"1"}, :id "940GZZLUMGT"}
+{:name "Morden", :zones #{"4"}, :id "940GZZLUMDN"}
+{:name "Mornington Crescent", :zones #{"2"}, :id "940GZZLUMTC"}
+{:name "Mudchute", :zones #{"2"}, :id "940GZZDLMUD"}
+{:name "Neasden", :zones #{"3"}, :id "940GZZLUNDN"}
+{:name "New Cross ELL", :zones #{"2"}, :id "910GNWCRELL"}
+{:name "New Cross Gate", :zones #{"2"}, :id "910GNEWXGTE"}
+{:name "Newbury Park", :zones #{"4"}, :id "940GZZLUNBP"}
+{:name "North Acton", :zones #{"3" "2"}, :id "940GZZLUNAN"}
+{:name "North Ealing", :zones #{"3"}, :id "940GZZLUNEN"}
+{:name "North Greenwich", :zones #{"3" "2"}, :id "940GZZLUNGW"}
+{:name "North Harrow", :zones #{"5"}, :id "940GZZLUNHA"}
+{:name "North Wembley", :zones #{"4"}, :id "940GZZLUNWY"}
+{:name "North Wembley", :zones #{"4"}, :id "910GNWEMBLY"}
+{:name "Northfields", :zones #{"3"}, :id "940GZZLUNFD"}
+{:name "Northolt", :zones #{"5"}, :id "940GZZLUNHT"}
+{:name "Northwick Park", :zones #{"4"}, :id "940GZZLUNKP"}
+{:name "Northwood", :zones #{"6"}, :id "940GZZLUNOW"}
+{:name "Northwood Hills", :zones #{"6"}, :id "940GZZLUNWH"}
+{:name "Norwood Junction", :zones #{"4"}, :id "910GNORWDJ"}
+{:name "Notting Hill Gate", :zones #{"1" "2"}, :id "940GZZLUNHG"}
+{:name "Oakwood", :zones #{"5"}, :id "940GZZLUOAK"}
+{:name "Old Street", :zones #{"1"}, :id "940GZZLUODS"}
+{:name "Osterley", :zones #{"4"}, :id "940GZZLUOSY"}
+{:name "Oval", :zones #{"2"}, :id "940GZZLUOVL"}
+{:name "Oxford Circus", :zones #{"1"}, :id "940GZZLUOXC"}
+{:name "Paddington", :zones #{"1"}, :id "940GZZLUPAH"}
+{:name "Paddington", :zones #{"1"}, :id "940GZZLUPAC"}
+{:name "Park Royal", :zones #{"3"}, :id "940GZZLUPKR"}
+{:name "Parsons Green", :zones #{"2"}, :id "940GZZLUPSG"}
+{:name "Peckham Rye", :zones #{"2"}, :id "910GPCKHMRY"}
+{:name "Penge West", :zones #{}}
+{:name "Penge West", :zones #{"4"}, :id "910GPENEW"}
+{:name "Perivale", :zones #{"4"}, :id "940GZZLUPVL"}
+{:name "Piccadilly Circus", :zones #{"1"}, :id "940GZZLUPCC"}
+{:name "Pimlico", :zones #{"1"}, :id "940GZZLUPCO"}
+{:name "Pinner", :zones #{"5"}, :id "940GZZLUPNR"}
+{:name "Plaistow", :zones #{"3"}, :id "940GZZLUPLW"}
+{:name "Pontoon Dock", :zones #{"3"}, :id "940GZZDLPDK"}
+{:name "Poplar", :zones #{"2"}, :id "940GZZDLPOP"}
+{:name "Preston Road", :zones #{"4"}, :id "940GZZLUPRD"}
+{:name "Prince Regent", :zones #{"3"}, :id "940GZZDLPRE"}
+{:name "Pudding Mill Lane", :zones #{"3" "2"}, :id "940GZZDLPUD"}
+{:name "Putney Bridge", :zones #{"2"}, :id "940GZZLUPYB"}
+{:name "Queen's Park", :zones #{"2"}, :id "940GZZLUQPS"}
+{:name "Queens Park", :zones #{"2"}, :id "910GQPRK"}
+{:name "Queens Road Peckham", :zones #{"2"}, :id "910GPCKHMQD"}
+{:name "Queensbury", :zones #{"4"}, :id "940GZZLUQBY"}
+{:name "Queensway", :zones #{"1"}, :id "940GZZLUQWY"}
+{:name "Ravenscourt Park", :zones #{"2"}, :id "940GZZLURVP"}
+{:name "Rayners Lane", :zones #{"5"}, :id "940GZZLURYL"}
+{:name "Rectory Road", :zones #{"2"}, :id "910GRCTRYRD"}
+{:name "Redbridge", :zones #{"4"}, :id "940GZZLURBG"}
+{:name "Regent's Park", :zones #{"1"}, :id "940GZZLURGP"}
+{:name "Richmond", :zones #{"4"}, :id "940GZZLURMD"}
+{:name "Richmond", :zones #{"4"}, :id "910GRICHMND"}
+{:name "Rickmansworth", :zones #{"7"}, :id "940GZZLURKW"}
+{:name "Romford", :zones #{"6"}, :id "910GROMFORD"}
+{:name "Rotherhithe", :zones #{"2"}, :id "910GRTHERHI"}
+{:name "Royal Albert", :zones #{"3"}, :id "940GZZDLRAL"}
+{:name "Royal Oak", :zones #{"2"}, :id "940GZZLURYO"}
+{:name "Royal Victoria", :zones #{"3"}, :id "940GZZDLRVC"}
+{:name "Ruislip", :zones #{"6"}, :id "940GZZLURSP"}
+{:name "Ruislip Gardens", :zones #{"5"}, :id "940GZZLURSG"}
+{:name "Ruislip Manor", :zones #{"6"}, :id "940GZZLURSM"}
+{:name "Russell Square", :zones #{"1"}, :id "940GZZLURSQ"}
+{:name "Seven Sisters", :zones #{"3"}, :id "910GSEVNSIS"}
+{:name "Seven Sisters", :zones #{"3"}, :id "940GZZLUSVS"}
+{:name "Shadwell", :zones #{"2"}, :id "910GSHADWEL"}
+{:name "Shadwell", :zones #{"2"}, :id "940GZZDLSHA"}
+{:name "Shepherd's Bush", :zones #{"2"}, :id "940GZZLUSBC"}
+{:name "Shepherd's Bush Market", :zones #{"2"}, :id "940GZZLUSBM"}
+{:name "Shepherds Bush", :zones #{"2"}, :id "910GSHPDSB"}
+{:name "Shoreditch High Street", :zones #{"1"}, :id "910GSHRDHST"}
+{:name "Silver Street", :zones #{"4"}, :id "910GSIVRST"}
+{:name "Sloane Square", :zones #{"1"}, :id "940GZZLUSSQ"}
+{:name "Snaresbrook", :zones #{"4"}, :id "940GZZLUSNB"}
+{:name "South Acton", :zones #{"3"}, :id "910GSACTON"}
+{:name "South Ealing", :zones #{"3"}, :id "940GZZLUSEA"}
+{:name "South Hampstead", :zones #{"2"}, :id "910GSHMPSTD"}
+{:name "South Harrow", :zones #{"5"}, :id "940GZZLUSHH"}
+{:name "South Kensington", :zones #{"1"}, :id "940GZZLUSKS"}
+{:name "South Kenton", :zones #{"4"}, :id "910GSKENTON"}
+{:name "South Kenton", :zones #{"4"}, :id "940GZZLUSKT"}
+{:name "South Quay", :zones #{"2"}, :id "940GZZDLSOQ"}
+{:name "South Ruislip", :zones #{"5"}, :id "940GZZLUSRP"}
+{:name "South Tottenham", :zones #{"3"}, :id "910GSTOTNHM"}
+{:name "South Wimbledon", :zones #{"3" "4"}, :id "940GZZLUSWN"}
+{:name "South Woodford", :zones #{"4"}, :id "940GZZLUSWF"}
+{:name "Southbury", :zones #{"5"}, :id "910GSBURY"}
+{:name "Southfields", :zones #{"3"}, :id "940GZZLUSFS"}
+{:name "Southgate", :zones #{"4"}, :id "940GZZLUSGT"}
+{:name "Southwark", :zones #{"1"}, :id "940GZZLUSWK"}
+{:name "St James Street", :zones #{"3"}, :id "910GSTJMSST"}
+{:name "St. James's Park", :zones #{"1"}, :id "940GZZLUSJP"}
+{:name "St. John's Wood", :zones #{"2"}, :id "940GZZLUSJW"}
+{:name "St. Paul's", :zones #{"1"}, :id "940GZZLUSPU"}
+{:name "Stamford Brook", :zones #{"2"}, :id "940GZZLUSFB"}
+{:name "Stamford Hill", :zones #{"3"}, :id "910GSTMFDHL"}
+{:name "Stanmore", :zones #{"5"}, :id "940GZZLUSTM"}
+{:name "Star Lane", :zones #{"3" "2"}, :id "940GZZDLSTL"}
+{:name "Stepney Green", :zones #{"2"}, :id "940GZZLUSGN"}
+{:name "Stockwell", :zones #{"2"}, :id "940GZZLUSKW"}
+{:name "Stoke Newington", :zones #{"2"}, :id "910GSTKNWNG"}
+{:name "Stonebridge Park", :zones #{"3"}, :id "910GSTNBGPK"}
+{:name "Stonebridge Park", :zones #{"3"}, :id "940GZZLUSGP"}
+{:name "Stratford", :zones #{"3" "2"}, :id "910GSTFD"}
+{:name "Stratford", :zones #{"3" "2"}, :id "940GZZDLSTD"}
+{:name "Stratford", :zones #{"3" "2"}, :id "940GZZLUSTD"}
+{:name "Stratford High Street", :zones #{"3" "2"}, :id "940GZZDLSHS"}
+{:name "Stratford International", :zones #{"3" "2"}, :id "940GZZDLSIT"}
+{:name "Sudbury Hill", :zones #{"4"}, :id "940GZZLUSUH"}
+{:name "Sudbury Town", :zones #{"4"}, :id "940GZZLUSUT"}
+{:name "Surrey Quays", :zones #{"2"}, :id "910GSURREYQ"}
+{:name "Swiss Cottage", :zones #{"2"}, :id "940GZZLUSWC"}
+{:name "Sydenham", :zones #{"3"}, :id "910GSYDENHM"}
+{:name "Temple", :zones #{"1"}, :id "940GZZLUTMP"}
+{:name "Theobalds Grove", :zones #{"7"}, :id "910GTHBLDSG"}
+{:name "Theydon Bois", :zones #{"6"}, :id "940GZZLUTHB"}
+{:name "Tooting Bec", :zones #{"3"}, :id "940GZZLUTBC"}
+{:name "Tooting Broadway", :zones #{"3"}, :id "940GZZLUTBY"}
+{:name "Tottenham Court Road", :zones #{"1"}, :id "940GZZLUTCR"}
+{:name "Tottenham Hale", :zones #{"3"}, :id "940GZZLUTMH"}
+{:name "Totteridge & Whetstone", :zones #{"4"}, :id "940GZZLUTAW"}
+{:name "Tower Gateway", :zones #{"1"}, :id "940GZZDLTWG"}
+{:name "Tower Hill", :zones #{"1"}, :id "940GZZLUTWH"}
+{:name "Tufnell Park", :zones #{"2"}, :id "940GZZLUTFP"}
+{:name "Turkey Street", :zones #{"6"}, :id "910GTURKYST"}
+{:name "Turnham Green", :zones #{"2"}, :id "940GZZLUTNG"}
+{:name "Turnpike Lane", :zones #{"3"}, :id "940GZZLUTPN"}
+{:name "Upminster", :zones #{"6"}, :id "910GUPMNSTR"}
+{:name "Upminster", :zones #{"6"}, :id "940GZZLUUPM"}
+{:name "Upminster Bridge", :zones #{"6"}, :id "940GZZLUUPB"}
+{:name "Upney", :zones #{"4"}, :id "940GZZLUUPY"}
+{:name "Upper Holloway", :zones #{"2"}, :id "910GUPRHLWY"}
+{:name "Upton Park", :zones #{"3"}, :id "940GZZLUUPK"}
+{:name "Uxbridge", :zones #{"6"}, :id "940GZZLUUXB"}
+{:name "Vauxhall", :zones #{"1" "2"}, :id "940GZZLUVXL"}
+{:name "Victoria", :zones #{"1"}, :id "940GZZLUVIC"}
+{:name "Walthamstow Central", :zones #{"3"}, :id "940GZZLUWWL"}
+{:name "Walthamstow Central", :zones #{"3"}, :id "910GWLTWCEN"}
+{:name "Walthamstow Queens Road", :zones #{"3"}, :id "910GWLTHQRD"}
+{:name "Wandsworth Road", :zones #{"2"}, :id "910GWNDSWRD"}
+{:name "Wanstead", :zones #{"4"}, :id "940GZZLUWSD"}
+{:name "Wanstead Park", :zones #{"3"}, :id "910GWNSTDPK"}
+{:name "Wapping", :zones #{"2"}, :id "910GWAPPING"}
+{:name "Warren Street", :zones #{"1"}, :id "940GZZLUWRR"}
+{:name "Warwick Avenue", :zones #{"2"}, :id "940GZZLUWKA"}
+{:name "Waterloo", :zones #{"1"}, :id "940GZZLUWLO"}
+{:name "Watford", :zones #{"7"}, :id "940GZZLUWAF"}
+{:name "Watford High Street", :zones #{"8"}, :id "910GWATFDHS"}
+{:name "Watford Junction", :zones #{}, :id "910GWATFDJ"}
+{:name "Wembley Central", :zones #{"4"}, :id "910GWMBY"}
+{:name "Wembley Central", :zones #{"4"}, :id "940GZZLUWYC"}
+{:name "Wembley Park", :zones #{"4"}, :id "940GZZLUWYP"}
+{:name "West Acton", :zones #{"3"}, :id "940GZZLUWTA"}
+{:name "West Brompton", :zones #{"2"}, :id "910GWBRMPTN"}
+{:name "West Brompton", :zones #{"2"}, :id "940GZZLUWBN"}
+{:name "West Croydon", :zones #{"5"}, :id "910GWCROYDN"}
+{:name "West Finchley", :zones #{"4"}, :id "940GZZLUWFN"}
+{:name "West Ham", :zones #{"3" "2"}, :id "940GZZLUWHM"}
+{:name "West Ham", :zones #{"3" "2"}, :id "940GZZDLWHM"}
+{:name "West Hampstead", :zones #{"2"}, :id "910GWHMDSTD"}
+{:name "West Hampstead", :zones #{"2"}, :id "940GZZLUWHP"}
+{:name "West Harrow", :zones #{"5"}, :id "940GZZLUWHW"}
+{:name "West India Quay", :zones #{"2"}, :id "940GZZDLWIQ"}
+{:name "West Kensington", :zones #{"2"}, :id "940GZZLUWKN"}
+{:name "West Ruislip", :zones #{"6"}, :id "940GZZLUWRP"}
+{:name "West Silvertown", :zones #{"3"}, :id "940GZZDLWSV"}
+{:name "Westbourne Park", :zones #{"2"}, :id "940GZZLUWSP"}
+{:name "Westferry", :zones #{"2"}, :id "940GZZDLWFE"}
+{:name "Westminster", :zones #{"1"}, :id "940GZZLUWSM"}
+{:name "White City", :zones #{"2"}, :id "940GZZLUWCY"}
+{:name "White Hart Lane", :zones #{"3"}, :id "910GWHHRTLA"}
+{:name "Whitechapel", :zones #{"2"}, :id "940GZZLUWPL"}
+{:name "Whitechapel", :zones #{"2"}, :id "910GWCHAPEL"}
+{:name "Willesden Green", :zones #{"3" "2"}, :id "940GZZLUWIG"}
+{:name "Willesden Junction", :zones #{"3" "2"}, :id "940GZZLUWJN"}
+{:name "Willesden Junction", :zones #{"3" "2"}, :id "910GWLSDJHL"}
+{:name "Wimbledon", :zones #{"3"}, :id "940GZZLUWIM"}
+{:name "Wimbledon Park", :zones #{"3"}, :id "940GZZLUWIP"}
+{:name "Wood Green", :zones #{"3"}, :id "940GZZLUWOG"}
+{:name "Wood Lane", :zones #{"2"}, :id "940GZZLUWLA"}
+{:name "Wood Street", :zones #{"4"}, :id "910GWDST"}
+{:name "Woodford", :zones #{"4"}, :id "940GZZLUWOF"}
+{:name "Woodgrange Park", :zones #{"3" "4"}, :id "910GWDGRNPK"}
+{:name "Woodside Park", :zones #{"4"}, :id "940GZZLUWOP"}
+{:name "Woolwich Arsenal", :zones #{"4"}, :id "940GZZDLWLA"}

@@ -1,0 +1,13 @@
+{:name "Bakerloo", :modeName "tube", :id "bakerloo"}
+{:name "Central", :modeName "tube", :id "central"}
+{:name "Circle", :modeName "tube", :id "circle"}
+{:name "District", :modeName "tube", :id "district"}
+{:name "DLR", :modeName "dlr", :id "dlr"}
+{:name "Hammersmith & City", :modeName "tube", :id "hammersmith-city"}
+{:name "Jubilee", :modeName "tube", :id "jubilee"}
+{:name "London Overground", :modeName "overground", :id "london-overground"}
+{:name "Metropolitan", :modeName "tube", :id "metropolitan"}
+{:name "Northern", :modeName "tube", :id "northern"}
+{:name "Piccadilly", :modeName "tube", :id "piccadilly"}
+{:name "Victoria", :modeName "tube", :id "victoria"}
+{:name "Waterloo & City", :modeName "tube", :id "waterloo-city"}
