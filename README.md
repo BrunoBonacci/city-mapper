@@ -1,6 +1,8 @@
 # city-mapper
 
-A Clojure library designed to ... well, that part is up to you.
+Just some playing around with the graph search and the London tube station data.
+
+![London TubeMap](./doc/London-TubeMap-Graph.png)
 
 ## Usage
 
@@ -8,7 +10,6 @@ FIXME
 
 ## License
 
-Copyright © 2016 FIXME
+Copyright © 2016 Bruno Bonacci
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the Apache License v 2.0 (http://www.apache.org/licenses/LICENSE-2.0)
